@@ -1,0 +1,39 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("https://img.freepik.com/premium-vector/geometric-gradient-technology-background_23-2149110132.jpg");
+}
+.signin-container {
+    border: none;
+    overflow: hidden;
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.4),0 17px 50px 0 rgba(0, 0, 0, 0.19);
+    width: 500px;
+    border-radius: 7px;
+    height: 760px;
+    background-color: white;
+    overflow: hidden;
+}
+#email_prompt {
+    width: 320px;
+    height: 24px;
+    font-size: medium;
+    border: none;
+    background-color: lightgrey;
+    border-radius: 4px;
+}
+#name_prompt { 
+    width: 320px;
+    height: 24px;
+    font-size: medium;
+    border: none;
+    background-color: lightgrey;
+    border-radius: 4px;
+}
+.account-createbtn {
+    width: 254px;
+    height: 35px;
+    font-size: medium;
+    border: none;
+    border-radius: 5px;
+    background-color: lime;
+    cursor: pointer;
+}
